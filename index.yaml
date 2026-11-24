@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  ascend-device-plugin:
+  - apiVersion: v2
+    appVersion: v1.5.0
+    created: "2026-11-24T07:57:05.413094493Z"
+    description: HAMi Ascend device plugin
+    digest: 7c2a02cfc734390f6e8fc20da6b3b0a853c8fddba1c45efdff461f99efbe57d8
+    kubeVersion: '>=1.20.0-0'
+    name: ascend-device-plugin
+    type: application
+    urls:
+    - https://github.com/FouoF/ascend-device-plugin/releases/download/ascend-device-plugin-0.2.2/ascend-device-plugin-0.2.2.tgz
+    version: 0.2.2
+generated: "2026-11-24T07:57:05.413106596Z"
